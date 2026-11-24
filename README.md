@@ -1,4 +1,3 @@
-## Hi there!
 # Hi, I'm Jun Hern 👋
 
 ---
@@ -8,7 +7,7 @@
 ### 🥇 2nd Place — [HTX x Microsoft HacX 2025]
 * **Project:** [Star AI](https://github.com/TanJunHern/STARAI)
 * **Built:** [STARAI is a full-stack anomaly detection and machine learning system featuring a Python backend, frontend interface, and Dockerized deployment architecture]
-* **Tech Stack:** : React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Zustand, Recharts                                                                                 **Backend:** Python, FastAPI, Uvicorn, Celery                                                                                                                                **Database & Cache:** MongoDB, Redis                                                                                                                                         **AI / Machine Learning:**                                                                                                                                                  **Anomaly Detection:** TensorFlow / Keras (Autoencoders), Scikit-learn (Isolation Forest)                                                                                   **LLM Integration:** OpenAI API, LangChain                                                                                                                                  **Cloud & DevOps:** Docker, Docker Compose, AWS S3
+* **Tech Stack:** : React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Zustand, Recharts <br>                                                                                **Backend:** Python, FastAPI, Uvicorn, Celery                                                                                                                                **Database & Cache:** MongoDB, Redis                                                                                                                                         **AI / Machine Learning:**                                                                                                                                                  **Anomaly Detection:** TensorFlow / Keras (Autoencoders), Scikit-learn (Isolation Forest)                                                                                   **LLM Integration:** OpenAI API, LangChain                                                                                                                                  **Cloud & DevOps:** Docker, Docker Compose, AWS S3
 * **Photos:** <img width="480" height="360" alt="1763700305784" src="https://github.com/user-attachments/assets/f61968b9-4c2e-484d-9313-bb4de4375cd1" />
 
 
