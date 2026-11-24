@@ -4,6 +4,22 @@
 
 ## 🏆 Hackathon Wins
 
+### 🥇Top 50 Finalist — [Google Cloud AI Builder Cup 2026]
+* **Project:** [Safe Globe](https://github.com/TanJunHern/SafeGlobe)
+* **Built:**DueDilly (SafeGlobe) is an AI-powered counterparty screening and intelligent risk platform built for the AI Builder Cup 2026. It deploys transparent AI agents to automate due diligence questionnaires (DDQs), monitor global country-risk exposure, and surface explainable findings for human-in-the-loop compliance decisions.
+* **Tech Stack:**
+  * **Frontend:** Vanilla JS, HTML5, CSS3, D3.js (v7), TopoJSON
+  * **Backend:** Node.js, Express.js (v5)
+  * **Database:** SQLite (`node:sqlite`) / Firebase
+
+  * **AI & Analytics:** Python, Google Gemini API (`google-genai`), BeautifulSoup4
+  * **DevOps & Cloud:** Docker, Google Cloud Run, Google Cloud Build, Firebase Hosting
+  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b46dfb75-bfed-415c-b980-57a552f4f97c" alt="Alt text" width="400" />
+</p>
+
+
 ### 🥇 2nd Place — [HTX x Microsoft HacX 2025]
 * **Project:** [Star AI](https://github.com/TanJunHern/STARAI)
 * **Built:** STARAI is a full-stack anomaly detection and machine learning system featuring a Python backend, frontend interface, and Dockerized deployment architecture.
