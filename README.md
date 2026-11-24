@@ -60,8 +60,8 @@
 
 ### 📋 All Hackathon Achievements
 
-| Year | Event | Award | Project | Photos |
-| :--- | :--- | :--- | :--- | :--- |
+| Year | Event | Award | Project |
+| :--- | :--- | :--- | :--- |
 | 2026 | Google Cloud AI Builder Cup 2026 | JAPAC Top 50 Finalist | [Repo](https://github.com/TanJunHern/SafeGlobe) |
 | 2025 | HTX x Microsoft HacX 2025 | 🥈 2nd Place | [Repo](https://github.com/TanJunHern/STARAI) | 
 | 2025 | NTU WIT Hackathon | 🏅 Best AI Hack | [Repo](https://github.com/alyssahx-wong/BuddyBeasts) | 
