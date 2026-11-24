@@ -10,7 +10,7 @@
   
 ## 🏆 Hackathon Wins
 
-### 🥇Top 50 Finalist — [Google Cloud AI Builder Cup 2026]
+### 🥇Top 50 Finalist — [Google Cloud AI Builder Cup 2026] - APAC
 * **Project:** [Safe Globe](https://github.com/TanJunHern/SafeGlobe)
 * **Built:** DueDilly (SafeGlobe) is an AI-powered counterparty screening and intelligent risk platform built for the AI Builder Cup 2026. It deploys transparent AI agents to automate due diligence questionnaires (DDQs), monitor global country-risk exposure, and surface explainable findings for human-in-the-loop compliance decisions.
 * **Tech Stack:**
@@ -26,7 +26,7 @@
 </p>
 
 
-### 🥇 2nd Place — [HTX x Microsoft HacX 2025]
+### 🥇 2nd Place — [HTX x Microsoft HacX 2025] - Singapore
 * **Project:** [Star AI](https://github.com/TanJunHern/STARAI)
 * **Built:** STARAI is a full-stack anomaly detection and machine learning system featuring a Python backend, frontend interface, and Dockerized deployment architecture.
 * **Tech Stack:**
@@ -43,7 +43,7 @@
 
 
 
-### 🥈 1st Runner Up — [NTU WIT Hackathon]
+### 🥈 1st Runner Up — [NTU WIT Hackathon] - Singapore
 * **Project:** [Buddy Beasts](https://github.com/alyssahx-wong/BuddyBeasts)
 * **Built:** BuddyBeasts is a pixel RPG web application built for the WIT BeyondBinary Hackathon that turns real-world social meetups and community participation into collaborative gameplay. Players join local hubs, complete in-person group quests, and level up virtual companion monsters as they combat loneliness and build genuine human connections.
 * **Tech Stack:**
