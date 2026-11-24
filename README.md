@@ -23,7 +23,7 @@
 
 ### 🥈 1st Runner Up — [NTU WIT Hackathon]
 * **Project:** [Buddy Beasts]([https://github.com/username/project-repo](https://github.com/alyssahx-wong/BuddyBeasts)) 
-* **Built:** [BuddyBeasts is a pixel RPG web application built for the WIT BeyondBinary Hackathon that turns real-world social meetups and community participation into collaborative gameplay. Players join local hubs, complete in-person group quests, and level up virtual companion monsters as they combat loneliness and build genuine human connections]
+* **Built:** BuddyBeasts is a pixel RPG web application built for the WIT BeyondBinary Hackathon that turns real-world social meetups and community participation into collaborative gameplay. Players join local hubs, complete in-person group quests, and level up virtual companion monsters as they combat loneliness and build genuine human connections.
 * **Tech Stack:**
   * **Frontend:** React 18, Vite, Tailwind CSS
   * **State Management:** Zustand (with LocalStorage persistence)
