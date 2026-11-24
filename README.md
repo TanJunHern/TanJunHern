@@ -7,7 +7,7 @@
 ### Computer Vision Enabled Navigation (2026)
 * **Published at:** Nanyang Technological University (NTU) — College of Computing and Data Science (CCDS) · [Read Paper](https://dr.ntu.edu.sg/entities/publication/067a6abe-9fdc-4215-8f55-adffa5d6b718)
 * **Summary:** Developed a resource-efficient, vision-guided robot navigation pipeline achieving **>90% symbol recognition accuracy** without LiDAR or ultrasonic sensors. Integrates real-time YOLO object detection with robust preprocessing to handle motion blur, occlusions, complex backgrounds, and varying lighting conditions on moving robotic platforms.
-* 
+  
 ## 🏆 Hackathon Wins
 
 ### 🥇Top 50 Finalist — [Google Cloud AI Builder Cup 2026]
