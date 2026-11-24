@@ -46,20 +46,8 @@
 
 | Year | Event | Award | Project | Photos |
 | :--- | :--- | :--- | :--- | :--- |
-| 2026 | [Hackathon Name] | 🥇 1st Place | [Repo](https://github.com/username/repo) | [Album / Photos](./assets/hackathon1-award.jpg) |
-| 2025 | [Hackathon Name] | 🥈 2nd Place | [Repo](https://github.com/username/repo) | [Album / Photos](https://link-to-photo.com) |
-| 2025 | [Hackathon Name] | 🏅 Best AI Hack | [Repo](https://github.com/username/repo) | [Album / Photos](https://link-to-photo.com) |
+| 2026 | Google Cloud AI Builder Cup 2026 | JAPAC Top 50 Finalist | [Repo](https://github.com/TanJunHern/SafeGlobe) |
+| 2025 | HTX x Microsoft HacX 2025 | 🥈 2nd Place | [Repo](https://github.com/TanJunHern/STARAI) | 
+| 2025 | NTU WIT Hackathon | 🏅 Best AI Hack | [Repo](https://github.com/alyssahx-wong/BuddyBeasts) | 
 
----
 
-## 🛠️ Tech Stack
-
-* **Languages:** Python, C/C++, TypeScript, SQL
-* **AI & Vision:** PyTorch, OpenCV, YOLOv8, Local LLMs
-* **Backend & Cloud:** FastAPI, Node.js, Docker, GCP, Firebase
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true)
