@@ -4,6 +4,12 @@
 
 ## 🏆 Hackathon Wins
 
+## 📄 Publications & Research
+
+### Computer Vision Enabled Navigation (2026)
+* **Published at:** Nanyang Technological University (NTU) — College of Computing and Data Science (CCDS) · [Read Paper](https://dr.ntu.edu.sg/entities/publication/067a6abe-9fdc-4215-8f55-adffa5d6b718)
+* **Summary:** Developed a resource-efficient, vision-guided robot navigation pipeline achieving **>90% symbol recognition accuracy** without LiDAR or ultrasonic sensors. Integrates real-time YOLO object detection with robust preprocessing to handle motion blur, occlusions, complex backgrounds, and varying lighting conditions on moving robotic platforms.
+
 ### 🥇Top 50 Finalist — [Google Cloud AI Builder Cup 2026]
 * **Project:** [Safe Globe](https://github.com/TanJunHern/SafeGlobe)
 * **Built:** DueDilly (SafeGlobe) is an AI-powered counterparty screening and intelligent risk platform built for the AI Builder Cup 2026. It deploys transparent AI agents to automate due diligence questionnaires (DDQs), monitor global country-risk exposure, and surface explainable findings for human-in-the-loop compliance decisions.
