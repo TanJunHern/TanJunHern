@@ -7,22 +7,10 @@
 ### 🥇 2nd Place — [HTX x Microsoft HacX 2025]
 * **Project:** [Star AI](https://github.com/TanJunHern/STARAI)
 * **Built:** [STARAI is a full-stack anomaly detection and machine learning system featuring a Python backend, frontend interface, and Dockerized deployment architecture]
-* **Tech Stack:** : React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Zustand, Recharts <br>                                                                                **Backend:** Python, FastAPI, Uvicorn, Celery                                                                                                                                **Database & Cache:** MongoDB, Redis                                                                                                                                         **AI / Machine Learning:**                                                                                                                                                  **Anomaly Detection:** TensorFlow / Keras (Autoencoders), Scikit-learn (Isolation Forest)                                                                                   **LLM Integration:** OpenAI API, LangChain                                                                                                                                  **Cloud & DevOps:** Docker, Docker Compose, AWS S3
+* **Tech Stack:** : React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Zustand, Recharts <br>                                                                                -**Backend:** Python, FastAPI, Uvicorn, Celery  <br>                                                                                                                         -**Database & Cache:** MongoDB, Redis <br>                                                                                                                                   -**AI / Machine Learning:**   <br>                                                                                                                                           -**Anomaly Detection:** TensorFlow / Keras (Autoencoders), Scikit-learn (Isolation Forest)  <br>                                                                             -**LLM Integration:** OpenAI API, LangChain  <br>                                                                                                                            -**Cloud & DevOps:** Docker, Docker Compose, AWS S3 <br> 
+  
 * **Photos:** <img width="480" height="360" alt="1763700305784" src="https://github.com/user-attachments/assets/f61968b9-4c2e-484d-9313-bb4de4375cd1" />
 
-
-<details>
-<summary>View Photos</summary>
-<br>
-<table>
-  <tr>
-    <td><img src="./assets/hackathon1-award.jpg" width="350" alt="Award Ceremony"/></td>
-    <td><img src="./assets/hackathon1-team.jpg" width="350" alt="Team Photo"/></td>
-  </tr>
-</table>
-</details>
-
----
 
 ### 🥈 2nd Place / Best Technical Award — [Hackathon Name 2025]
 * **Project:** [Project Name](https://github.com/username/project-repo) · [Live Demo / Devpost](https://devpost.com/software/project)
