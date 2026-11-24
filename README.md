@@ -6,7 +6,7 @@
 
 ### 🥇Top 50 Finalist — [Google Cloud AI Builder Cup 2026]
 * **Project:** [Safe Globe](https://github.com/TanJunHern/SafeGlobe)
-* **Built:**DueDilly (SafeGlobe) is an AI-powered counterparty screening and intelligent risk platform built for the AI Builder Cup 2026. It deploys transparent AI agents to automate due diligence questionnaires (DDQs), monitor global country-risk exposure, and surface explainable findings for human-in-the-loop compliance decisions.
+* **Built:** DueDilly (SafeGlobe) is an AI-powered counterparty screening and intelligent risk platform built for the AI Builder Cup 2026. It deploys transparent AI agents to automate due diligence questionnaires (DDQs), monitor global country-risk exposure, and surface explainable findings for human-in-the-loop compliance decisions.
 * **Tech Stack:**
   * **Frontend:** Vanilla JS, HTML5, CSS3, D3.js (v7), TopoJSON
   * **Backend:** Node.js, Express.js (v5)
