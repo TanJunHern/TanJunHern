@@ -8,8 +8,10 @@
 * **Project:** [Star AI](https://github.com/TanJunHern/STARAI)
 * **Built:** [STARAI is a full-stack anomaly detection and machine learning system featuring a Python backend, frontend interface, and Dockerized deployment architecture]
 * **Tech Stack:** : React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Zustand, Recharts <br>                                                                                -**Backend:** Python, FastAPI, Uvicorn, Celery  <br>                                                                                                                         -**Database & Cache:** MongoDB, Redis <br>                                                                                                                                   -**Anomaly Detection:** TensorFlow / Keras (Autoencoders), Scikit-learn (Isolation Forest)  <br>                                                                             -**LLM Integration:** OpenAI API, LangChain  <br>                                                                                                                            -**Cloud & DevOps:** Docker, Docker Compose, AWS S3 <br> 
-  
-* **Photos:** <img width="480" height="360" alt="1763700305784" src="https://github.com/user-attachments/assets/f61968b9-4c2e-484d-9313-bb4de4375cd1" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f61968b9-4c2e-484d-9313-bb4de4375cd1" alt="Alt text" width="400" />
+</p>
+
 
 
 ### 🥈 2nd Place / Best Technical Award — [Hackathon Name 2025]
